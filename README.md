@@ -11,3 +11,5 @@ For IT assets, we want to store information about the hardware and software used
 The database should also allow for the tracking of IT-related tasks, such as system upgrades, software updates, and network maintenance. We want to store information such as the task description, the date and time the task is scheduled, and the IT staff member responsible for completing the task. Each IT task can be associated with one or more IT staff members responsible for completing it.
 
 In addition, the database should allow for the tracking of IT expenses and budgeting. We want to store information such as the cost of each IT asset, the date it was purchased, and any maintenance or repair costs associated with it. We also want to track the overall IT budget for the organization, and any spending or expense reports related to IT. Each IT expense or cost can be associated with one or more IT assets.
+
+![IT_helpdesk_system-2023-06-15_20-21](https://github.com/Ace-Krypton/IT-HelpDesk/assets/75210504/5df102ec-071b-4860-bd5c-5e726cf23c00)
